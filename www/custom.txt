@@ -1,0 +1,6 @@
+h1{
+	font-family: "Franklin Gothic Medium";
+        font-weight: bold;
+        font-size: 26px;
+        color: #9E323A;
+}

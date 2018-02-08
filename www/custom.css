@@ -1,0 +1,107 @@
+h1{
+	font-family: "Franklin Gothic Medium";
+        font-size: 38px;
+        color: #9E323A;
+}
+
+h3{
+	font-family: "Franklin Gothic Medium";
+        font-size: 20px;
+        color: #9E323A;
+}
+
+h6{
+        font-size: 16px;
+        color: blue;
+		text-align: center;
+		font-weight: italic;
+		position: absolute;
+		top: 50%;
+	left: 50%;
+margin: -50px 0px 0px -50px;
+}
+
+.img{
+position: absolute;
+top: 50%;
+left: 50%;
+margin: -50px 0px 0px -50px;
+}
+
+.main-header .logo {
+                              font-family: "Franklin Gothic Medium";
+                              font-weight: bold;
+                              font-size: 20px;
+                              color: #9E323A;
+      }
+      # body, label, input, button, select { 
+      #       font-family: "Franklin Gothic Medium";
+      #                         background-color: black;
+      #                         }
+      .skin-black .main-header .logo {
+          background-color: #ED6B31;
+      }
+      .skin-black .main-header .logo:hover {
+          background-color: #ED6B31;
+      }
+/* navbar (rest of the header) 9E323A */
+        .skin-black .main-header .navbar {
+                              background-color: #9E323A;
+        }
+/* main sidebar */
+        .skin-black .main-sidebar {
+                              background-color: #F9AE42;
+                              }
+  /* other links in the sidebarmenu */
+        .skin-black .main-sidebar .sidebar .sidebar-menu a{
+                              background-color: #F9AE42;
+                              color: #000000;
+        }
+ /* active selected tab in the sidebarmenu */
+        .skin-black .main-sidebar .sidebar .sidebar-menu .active a{
+                              background-color: #D8853B;
+        }
+
+      body .content-wrapper,
+              right-side {
+			  			background-color: "black";
+						#background-image: url('one.jpg');
+						background-size: cover;
+						background-repeat: no-repeat;
+						
+                          font-family: "Franklin Gothic Medium";
+                          
+                          }
+body .content-wrapper .content .tab-content .tab-pane .col-sm-4 {
+	#background-color: #D8853B;
+	padding-right: 20px;
+	padding-left: 40px;
+	padding-top:20px;
+	margin:auto;
+}
+
+body .content-wrapper .content .tab-content .tab-pane .col-sm-6 {
+	#background-color: #D8853B;
+	padding-right: 20px;
+	padding-left: 40px;
+	padding-top:20px;
+	margin:auto;
+}
+
+#loadmessage {
+                           position: fixed;
+                           top: 0px;
+                           left: 0px;
+                           width: 100%;
+                           padding: 5px 0px 5px 0px;
+                           text-align: center;
+                           font-weight: bold;
+                           font-size: 100%;
+                           color: #000000;
+                           background-color: #CCFF66;
+                           z-index: 105;
+                           }
+  # /* other links in the sidebarmenu */
+  #       .skin-black .main-sidebar .sidebar .sidebar-menu a:hover{
+  #                             background-color: #D8853B;
+  #                             }
